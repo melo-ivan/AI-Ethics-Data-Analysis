@@ -1,0 +1,16 @@
+etica-em-ia/
+│
+├── data/                   # Diretório para armazenar dados
+│   └── dataset.csv         # Conjunto de dados original
+│
+├── notebooks/              # Notebooks Jupyter para exploração
+│   └── analise_dados.ipynb # Análise de dados
+│
+├── src/                    # Código fonte do projeto
+│   ├── main.py             # Script principal
+│   ├── analysis.py         # Módulo para análises
+│   └── visualization.py     # Módulo para visualizações
+│
+├── requirements.txt        # Dependências do projeto
+├── README.md               # Este arquivo
+└── LICENSE                 # Licença do projeto
