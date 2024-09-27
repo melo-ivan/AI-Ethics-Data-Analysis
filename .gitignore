@@ -1,0 +1,8 @@
+Python
+pycache/ *.py[cod] *.pyo *.pyd *.egg-info/ dist/ build/ *.whl
+
+Jupyter Notebook
+.ipynb_checkpoints/
+
+Outros
+data/*.csv *.log *.tmp
