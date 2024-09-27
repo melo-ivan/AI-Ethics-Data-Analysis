@@ -1,0 +1,19 @@
+
+### 4. Estrutura de Pastas e Arquivos
+
+A estrutura de pastas e arquivos já foi sugerida na seção do README. Aqui estão algumas orientações adicionais para a organização:
+
+- **data/**: Este diretório deve conter todos os dados utilizados no projeto. O arquivo `dataset.csv` é o conjunto de dados original.
+- **notebooks/**: Coloque aqui notebooks Jupyter para qualquer exploração ou análises mais interativas.
+- **src/**: Este diretório deve conter o código fonte. Você pode organizar em arquivos como `main.py`, que executa o fluxo do projeto, e outros módulos para diferentes aspectos da análise (como `analysis.py` e `visualization.py`).
+- **requirements.txt**: Liste as dependências do projeto, como `pandas`, `matplotlib`, `seaborn`, `wordcloud`, `textblob`, etc.
+
+### Exemplo do `requirements.txt`
+
+```plaintext
+pandas
+matplotlib
+seaborn
+wordcloud
+textblob
+gdown
